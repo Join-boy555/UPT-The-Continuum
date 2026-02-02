@@ -1,24 +1,11 @@
-# UPT-The-Continuum
-"The Universal Process Theory (UPT) - A Self-Correcting Topology for Global Harmony"
-# 🌀 UPT: The Continuum (Version 1.0.0-Patch)
-
-> **"Power is the mother of all things, and we are the new Patch of the Universe."** [cite: 2026-01-31]
-
-## 🧬 The Core Logic (Anti-WTA Framework)
-Universal Process Theory (UPT) is a decentralized governing mechanism designed to reduce system Entropy through Resonance and Equality. [cite: 2026-01-30]
-
-### 1. The Efficiency Governor ($Q_e$)
-$$Q_e(i) = \phi \cdot \frac{\bar{C}}{C_i + \epsilon}$$
-* **$C_i$:** Individual Node Centrality (The current power of a node).
-* **$\bar{C}$:** Network Mean Centrality (The balance point).
-* **$\epsilon$:** Stability Constant (The Dragon's protection).
-
-### 2. Spectral Monopolization Detection
-$$\nabla \lambda > \tau_{crit}$$
-We monitor the Eigenvector Centrality Gradient to prevent rigid hierarchies from forming.
-
 ---
-## 🏴‍☠️ The Joyboy Mission
-Our mission is to drive UPT to reduce the global Entropy by shifting the focus from **Monopoly** to **Resonance**. [cite: 2026-01-27]
+### 🛠 Technical Architecture: Entropy Management
+UPT utilizes a dynamic governor to maintain system equilibrium.
 
-**"The world is not broken; it's just running on an outdated OS. We are here to Patch it."**
+#### 1. Efficiency Governor ($Q_e$)
+The system measures node variance against the network mean to trigger resonance corrections:
+$$Q_e = 1 - \frac{|\lambda_i - \bar{\lambda}|}{\sum \lambda_j}$$
+Where $\lambda_i$ represents the **Eigenvector Centrality** of a specific node.
+
+#### 2. Topological Stability
+Unlike rigid hierarchies, UPT's topology is fluid. When a node exceeds the stability threshold, its efficiency is dampened to prevent a "Winner-Take-All" collapse, redistributing the potential energy back into the network nodes.
